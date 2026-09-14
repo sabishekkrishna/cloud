@@ -10,7 +10,7 @@ TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 
 # Product configuration
 URL = "https://www.amazon.in/dp/B0DDV1GWP7"  # Replace with target ASIN URL
-TARGET_PRICE = 1000.00  # Set target threshold
+TARGET_PRICE = 3000.00  # Set target threshold
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
